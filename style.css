@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+.wrap{
+border:2px solid #a1a1a1;
+padding:10px 40px; 
+background:#dddddd;
+width:560px;
+border-radius:25px;
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+}
+
+
+.header1{padding:5px;}
+.header2{padding:5px;}
+.header3{padding:5px;}
+.header3_top1{padding:5px;}
+.header3_top2{padding:5px;}
+.header3_top1_title{float:left;}
+.header3_top2_title{float:left;}
+.viewTypeArea{float:left;}
+.startArea{float:left;}
+.endArea{float:left;}
+
+.keywordArea{float:left;}
+
+.wordCount{float:left; padding: 10px;}
